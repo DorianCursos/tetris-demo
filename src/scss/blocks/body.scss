@@ -2,6 +2,9 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background-color: #111;
+  display: grid;
+  place-content: center;
+  background-color: #333;
   font-family: sans-serif;
+  height: 100vh;
 }
